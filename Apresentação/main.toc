@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {brazil}
+\beamer@sectionintoc {1}{AWS e aplica\IeC {\c c}\IeC {\~a}o utilizada}{3}{0}{1}
+\beamer@sectionintoc {2}{Configura\IeC {\c c}\IeC {\~a}o dos clusters MPI}{6}{0}{2}
+\beamer@sectionintoc {3}{Experimenta\IeC {\c c}\IeC {\~a}o}{13}{0}{3}
+\beamer@sectionintoc {4}{Coment\IeC {\'a}rios}{20}{0}{4}
+\beamer@sectionintoc {5}{Refer\^encias}{22}{0}{5}

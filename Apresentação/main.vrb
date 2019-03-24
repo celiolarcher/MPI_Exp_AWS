@@ -1,0 +1,16 @@
+\frametitle{Instalação do MPI}
+\begin{itemize}
+		\item Utilizado pacote MPICH
+		\item Instalação feita em todas as máquinas virtuais participantes do cluster
+		\item Processo simples, utilizando-se de apenas alguns comandos:
+			\begin{verbatim}
+			sudo apt-get install make gcc g++ gfortran
+			./configure
+			make
+			sudo make install
+			echo "export LD_LIBRARY_PATH=/usr/local/lib" \\
+			 >> ~/.bashrc
+			sudo reboot
+		\end{verbatim}
+
+	\end{itemize}
